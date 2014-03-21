@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container">
+	<div class="row">
+		<div class="span6">
+			<h1>Assignment: {{project.title}}</h1>
+			<h3>Version: {{project.version}}</h3>
+			<h3>Date: {{project.date}}</h3>
+			<h3>Message: {{project.commitMessage}}</h3>
+			<iframe width="1000px" name="myiframe"></iframe>
+			<div>
+				<a class='btn btn-info btn-xlarge' href="/comments/{{project.title}}">Comments</a>
+				<p><br/></p>
+			</div>
+
+			<table class="table table-striped">
+				<tr>
+					<th>File/Dir</th>
+					<th>Type</th> 
+					<th>Size</th>
+					<th>Date</th>
+					<th>Revision</th>
+					<th>Details</th>
+					<th>View</th>
+				</tr>
+				{% for i in project.list %}
+				<tr>
+					<td>{{ i.path }}</td>
+					<td>{{ i.type }}</td> 
+					<td>{{ i.size }}</td>
+					<td>{{ i.date}}</td>
+					<td>{{ i.version }}</td>
+
+					<td><button type="button" class="btn btn-default btn-xs " id="popper{{i.id}}" data-container="body" data-toggle="popover" data-placement="left" data-content="{{ i.formattedInfo }}." html="true">
+  					Details
+					</button></td>
+					 <script type="text/javascript">
+					  	$(document).ready(function()
+                            {
+					  		$("#popper{{i.id}}").popover();
+					  	});
+					  </script> 
+					<td><a class='btn btn-info btn-xs' href="https://subversion.ews.illinois.edu/svn/sp14-cs242/lato2/{{ i.path }}" target="myiframe">View</a></td>
+				</tr>
+				{% endfor %}	
+			</table>
+		</div>
+	</div>
+</div>
+
+{% endblock %}

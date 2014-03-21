@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container">
+	<div class="row">
+		<div class="span6">
+			<h1>Comments for {{project.title}}</h1>
+			<form action="" method="post" name="login">
+    		{{form.hidden_tag()}}
+    		<p>
+        		Please enter your name:<br>
+        		{{form.username(size=80)}}<br>
+    		</p>
+    		<p>
+    			Please enter a coment:<br>
+    			{{form.comment(size=200)}}
+    		</p>
+   		 <p><input type="submit" value="Leave comment"></p>
+</form>
+		</div>
+		<table class="table table-striped">
+				<tr>
+					<th>Author</th>
+					<th>Date</th> 
+					<th>Content</th>
+				</tr>
+				{% for entry in commentData %}
+				<tr>
+					<td>{{ entry.user_name }}</td>
+					<td>{{ entry.timestamp }}</td> 
+					<td>{{ entry.content }}</td>
+				</tr>
+				{% endfor %}	
+			</table>
+	</div>
+</div>
+{% endblock %}

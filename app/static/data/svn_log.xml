@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/data/cmi_hub.json</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/graphutils.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/dataParser.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/shell.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/data/generated.json</path>
+</paths>
+<msg>Added code for part 2, 3, and 5</msg>
+</logentry>
+<logentry
+   revision="7506">
+<author>lato2</author>
+<date>2014-03-06T20:01:30.990144Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/graphutils.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/shell.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/mynode.js</path>
+</paths>
+<msg>part 1 complete</msg>
+</logentry>
+<logentry
+   revision="7453">
+<author>lato2</author>
+<date>2014-03-06T17:18:40.721023Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lato2/Assignment2.1/js/graph.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/js/graphutils.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/test/graphTest.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/dataParser.js</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment2.1/js/graph.js"
+   copyfrom-rev="7439"
+   action="A">/lato2/Assignment2.1/js/mygraph.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/shell.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/js/mynode.js</path>
+</paths>
+<msg>graphUtils and other classes created and modified</msg>
+</logentry>
+<logentry
+   revision="7439">
+<author>lato2</author>
+<date>2014-03-06T16:24:51.688298Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/js/graph.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/.idea/workspace.xml</path>
+</paths>
+<msg>node class refactored</msg>
+</logentry>
+<logentry
+   revision="7436">
+<author>lato2</author>
+<date>2014-03-06T15:57:39.167201Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment2.1/.idea/Assignment2.0.iml"
+   copyfrom-rev="7435"
+   action="A">/lato2/Assignment2.1/.idea/Assignment2.1.iml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.1/.idea/.name</path>
+</paths>
+<msg>Modified project config/refactor</msg>
+</logentry>
+<logentry
+   revision="7435">
+<author>lato2</author>
+<date>2014-03-06T15:56:22.596867Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/data/map_data.json</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/js/graph.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/test/graphTest.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/js/shell.js</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.1/data</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.1/.idea/scopes</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.1/js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/js/dataParser.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.1/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.1/test</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.1/.idea</path>
+</paths>
+<msg>2.1 added</msg>
+</logentry>
+<logentry
+   revision="6692">
+<author>lato2</author>
+<date>2014-02-27T21:40:10.086034Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/js/graph.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.0/test/graphTest.js</path>
+</paths>
+<msg>Test cases added</msg>
+</logentry>
+<logentry
+   revision="6669">
+<author>lato2</author>
+<date>2014-02-27T19:46:12.957109Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/js/graph.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/js/dataParser.js</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.0/test</path>
+</paths>
+<msg>Test directory committed, files reformatted</msg>
+</logentry>
+<logentry
+   revision="6667">
+<author>lato2</author>
+<date>2014-02-27T19:42:36.588759Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/js/shell.js</path>
+</paths>
+<msg>Change formatting of shell outputs</msg>
+</logentry>
+<logentry
+   revision="6663">
+<author>lato2</author>
+<date>2014-02-27T19:30:38.283641Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/js/graph.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/js/dataParser.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/js/shell.js</path>
+</paths>
+<msg>Added remaining functionality, commented code</msg>
+</logentry>
+<logentry
+   revision="6598">
+<author>lato2</author>
+<date>2014-02-27T11:16:12.578804Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment2.0/graph.js"
+   copyfrom-rev="6595"
+   action="A">/lato2/Assignment2.0/js/graph.js</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment2.0/graph.js</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.0/js</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment2.0/dataParser.js"
+   copyfrom-rev="6595"
+   action="A">/lato2/Assignment2.0/js/dataParser.js</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment2.0/shell.js"
+   copyfrom-rev="6595"
+   action="A">/lato2/Assignment2.0/js/shell.js</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment2.0/dataParser.js</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment2.0/shell.js</path>
+</paths>
+<msg>made changes to directory structure</msg>
+</logentry>
+<logentry
+   revision="6595">
+<author>lato2</author>
+<date>2014-02-27T11:12:20.987029Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lato2/Assignment2.0/test.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/graph.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/dataParser.js</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/shell.js</path>
+</paths>
+<msg>Add documentation to existing files</msg>
+</logentry>
+<logentry
+   revision="6591">
+<author>lato2</author>
+<date>2014-02-27T10:18:55.335079Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.0/data/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.0/data</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment2.0/graph.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.0/dataParser.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.0/shell.js</path>
+</paths>
+<msg>Parsed data, added basic user interface shell</msg>
+</logentry>
+<logentry
+   revision="6550">
+<author>lato2</author>
+<date>2014-02-27T07:34:58.705801Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.0/test.js</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment2.0/graph.js</path>
+<path
+   kind="dir"
+   action="R">/lato2/Assignment2.0</path>
+</paths>
+<msg>graph and test files created</msg>
+</logentry>
+<logentry
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessBoardTest.class</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessTileTest.class</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment2.0</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessPieceTest.class</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories/ChessBoard.class</path>
+</paths>
+<msg>Assignment2.0 initial commit</msg>
+</logentry>
+<logentry
+   revision="5719">
+<author>lato2</author>
+<date>2014-02-20T21:59:34.469817Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/tests/GUI_testing.docx</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/.idea/workspace.xml</path>
+</paths>
+<msg>Manual gui tests updated.</msg>
+</logentry>
+<logentry
+   revision="5711">
+<author>lato2</author>
+<date>2014-02-20T21:46:51.729971Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/GUIComponents/BoardGUI.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/ChessBoardAccessories/ChessBoard.java</path>
+</paths>
+<msg>Fixing piece movements.</msg>
+</logentry>
+<logentry
+   revision="5701">
+<author>lato2</author>
+<date>2014-02-20T21:10:09.223072Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/ChessBoardAccessories/ChessTile.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/GUIComponents/BoardGUI.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.2/src/ChessBoardAccessories/ChessBoard.java</path>
+</paths>
+<msg>Gui hooked up to interface</msg>
+</logentry>
+<logentry
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/ChessBoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/src/ChessBoardAccessories</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/src/tests</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/QueensCalvaryTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/ChessTileTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/images/80</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/src/Pieces</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/doxygen/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/QueensCalvary.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/TrollTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/images</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/Troll.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/PawnTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/.idea</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/src/GUIComponents</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/GUI_testing.pdf</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/QueenTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/wb.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/ChessBoardAccessories/ChessTile.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/GUIComponents/BoardGUI.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/wk.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/bb.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/wn.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/debug.txt</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/wp.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/wq.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/GUI_testing.docx</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/wr.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/bk.png</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/.idea/scopes</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.2/doxygen</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/bn.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/bp.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/bq.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/images/80/br.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/tests/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.2/src/ChessBoardAccessories/ChessBoard.java</path>
+</paths>
+<msg>1.2 commit</msg>
+</logentry>
+<logentry
+   revision="5583">
+<author>lato2</author>
+<date>2014-02-20T14:26:31.566888Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/GUIComponents/BoardGUI.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/GUI_testing.pdf</path>
+</paths>
+<msg>Manual test script added (pdf format, tests directory).</msg>
+</logentry>
+<logentry
+   revision="5579">
+<author>lato2</author>
+<date>2014-02-20T13:41:13.623135Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/GUIComponents/BoardGUI.java</path>
+</paths>
+<msg>Methods refactored, addPiece method added.</msg>
+</logentry>
+<logentry
+   revision="5577">
+<author>lato2</author>
+<date>2014-02-20T13:18:01.113233Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/GUIComponents/BoardGUI.java</path>
+</paths>
+<msg>Code refactored, method for coloring tiles fixed.</msg>
+</logentry>
+<logentry
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/wb.png</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/images/80</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/GUIComponents/BoardGUI.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/wk.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/bb.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/wn.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/wp.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/wq.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/wr.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/bk.png</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/bn.png</path>
+<path
+   kind="dir"
+   action="D">/lato2/Assignment1.1/images/128</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/bp.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/bq.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/80/br.png</path>
+</paths>
+<msg>Grid colored, images resized.</msg>
+</logentry>
+<logentry
+   revision="5571">
+<author>lato2</author>
+<date>2014-02-20T11:42:03.522800Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/GUIComponents/BoardGUI.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src/GUIComponents</path>
+</paths>
+<msg>Gui skeleton and image files added</msg>
+</logentry>
+<logentry
+   revision="5569">
+<author>lato2</author>
+<date>2014-02-20T11:37:12.081544Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/wp.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/wq.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/wb.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/wr.png</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/bk.png</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/images/128</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/bn.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/bp.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/wk.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/bq.png</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/images</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/bb.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/br.png</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/images/128/wn.png</path>
+</paths>
+<msg>Gui skeleton and image files added</msg>
+</logentry>
+<logentry
+   revision="5568">
+<author>lato2</author>
+<date>2014-02-20T11:36:03.852814Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+</paths>
+<msg>Gui skeleton and image files added</msg>
+</logentry>
+<logentry
+   revision="5119">
+<author>lato2</author>
+<date>2014-02-17T21:15:09.663611Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/doxygen</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/doxygen/Doxyfile</path>
+</paths>
+<msg>Doxygen config file added</msg>
+</logentry>
+<logentry
+   revision="5101">
+<author>lato2</author>
+<date>2014-02-17T19:16:55.769079Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/Troll.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/tests/QueensCalvaryTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/TrollTest.java</path>
+</paths>
+<msg>Created Troll class and tests</msg>
+</logentry>
+<logentry
+   revision="5100">
+<author>lato2</author>
+<date>2014-02-17T19:05:02.343663Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/Pieces/QueensCalvary.java</path>
+</paths>
+<msg>Made changes to extra piece (QueensCalvary)</msg>
+</logentry>
+<logentry
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/QueensCalvaryTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/QueensCalvary.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/tests/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/QueenTest.java</path>
+</paths>
+<msg>Splitting up chess piece tests</msg>
+</logentry>
+<logentry
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/src/Pieces/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.1/src/Pieces/ChessPieceRook.java"
+   copyfrom-rev="5097"
+   action="A">/lato2/Assignment1.1/src/Pieces/Rook.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.1/src/Pieces/ChessPieceQueen.java"
+   copyfrom-rev="5097"
+   action="A">/lato2/Assignment1.1/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/tests/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/src/Pieces/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/src/Pieces/ChessPieceKnight.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.1/src/Pieces/ChessPieceBishop.java"
+   copyfrom-rev="5097"
+   action="A">/lato2/Assignment1.1/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/src/Pieces/ChessPieceKing.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.1/src/Pieces/ChessPieceKnight.java"
+   copyfrom-rev="5097"
+   action="A">/lato2/Assignment1.1/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.1/src/Pieces/ChessPieceKing.java"
+   copyfrom-rev="5097"
+   action="A">/lato2/Assignment1.1/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/src/Pieces/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.1/src/Pieces/ChessPiecePawn.java"
+   copyfrom-rev="5097"
+   action="A">/lato2/Assignment1.1/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/tests/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/src/Pieces/ChessPieceRook.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/ChessBoardAccessories/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.1/src/tests/ChessBoardTest.java</path>
+</paths>
+<msg>Refactoring chess piece classes</msg>
+</logentry>
+<logentry
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src/ChessBoardAccessories</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src/tests</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/ChessBoardAccessories/ChessTile.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceKnight.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPiecePawn.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceKing.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessPieceTest.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories/ChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceRook.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceQueen.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPiece.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/ChessPieceTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceRook.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/ChessTileTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src/Pieces</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessBoardTest.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories/ChessTile.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessTileTest.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceKnight.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceBishop.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceKing.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/ChessBoardAccessories/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/ChessBoardTest.java</path>
+</paths>
+<msg>final update of directories</msg>
+</logentry>
+<logentry
+   revision="5096">
+<author>lato2</author>
+<date>2014-02-17T18:21:42.276856Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="D">/lato2/Assignment1.1</path>
+</paths>
+<msg>yolo</msg>
+</logentry>
+<logentry
+   revision="5095">
+<author>lato2</author>
+<date>2014-02-17T18:08:32.808674Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.1/Assignment1.0.iml"
+   copyfrom-rev="5093"
+   action="A">/lato2/Assignment1.1/Assignment1.1.iml</path>
+</paths>
+<msg>renamed config files</msg>
+</logentry>
+<logentry
+   revision="5093">
+<author>lato2</author>
+<date>2014-02-17T18:07:04.615590Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src/ChessBoardAccessories</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src/tests</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/ChessBoardAccessories/ChessTile.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceKnight.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPiecePawn.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceKing.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessPieceTest.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories/ChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceRook.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceQueen.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPiece.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/ChessPieceTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceRook.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/ChessTileTest.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/src/Pieces</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessBoardTest.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories/ChessTile.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/tests/ChessTileTest.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/Pieces/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceKnight.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceBishop.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceKing.class</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/ChessBoardAccessories/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/src/tests/ChessBoardTest.java</path>
+</paths>
+<msg>Added final 1.1 directory</msg>
+</logentry>
+<logentry
+   revision="5092">
+<author>lato2</author>
+<date>2014-02-17T18:05:30.659733Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/lato2/Assignment1.0_submission</path>
+<path
+   kind="dir"
+   copyfrom-path="/lato2/Assignment1.0_submission"
+   copyfrom-rev="5091"
+   action="R">/lato2/Assignment1.0</path>
+</paths>
+<msg>finishing directories</msg>
+</logentry>
+<logentry
+   revision="5091">
+<author>lato2</author>
+<date>2014-02-17T17:53:42.918160Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>adding tests folder</msg>
+</logentry>
+<logentry
+   revision="5090">
+<author>lato2</author>
+<date>2014-02-17T17:53:25.139079Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0/src/ChessBoardAccessories</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.0/src/ChessBoard.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.0/src/ChessBoard.java"
+   copyfrom-rev="3112"
+   action="A">/lato2/Assignment1.0/src/ChessBoardAccessories/ChessBoard.java</path>
+</paths>
+<msg>adding tests folder
+</msg>
+</logentry>
+<logentry
+   revision="5089">
+<author>lato2</author>
+<date>2014-02-17T17:46:31.802789Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.0/src/ChessBoardTest.java</path>
+</paths>
+<msg>Deleting conflicting files</msg>
+</logentry>
+<logentry
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPieceRook.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0_submission/.idea</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPieceKnight.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0_submission/src</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0_submission/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessTile.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPieceKing.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0_submission</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/src/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0_submission/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0_submission/.idea/scopes</path>
+</paths>
+<msg>modifying directories</msg>
+</logentry>
+<logentry
+   revision="5083">
+<author>lato2</author>
+<date>2014-02-17T16:25:24.571998Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/lato2/Assignment_temp</path>
+</paths>
+<msg>Deleting Assignment_temp</msg>
+</logentry>
+<logentry
+   revision="5082">
+<author>lato2</author>
+<date>2014-02-17T16:12:56.200299Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/lato2/Assignment1.1</path>
+</paths>
+<msg>Deleting Assignment1.1 directories</msg>
+</logentry>
+<logentry
+   revision="5081">
+<author>lato2</author>
+<date>2014-02-17T16:12:17.224095Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/lato2/grocery</path>
+</paths>
+<msg>Deleting grocery</msg>
+</logentry>
+<logentry
+   revision="4966">
+<author>lato2</author>
+<date>2014-02-14T23:46:34.607650Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1.iml</path>
+</paths>
+<msg>Modifying directories again</msg>
+</logentry>
+<logentry
+   revision="4964">
+<author>lato2</author>
+<date>2014-02-14T23:45:30.268824Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/lato2/Assignment_temp/Assignment1.1</path>
+<path
+   kind="dir"
+   copyfrom-path="/lato2/Assignment1.1/Assignment1.1"
+   copyfrom-rev="4962"
+   action="R">/lato2/Assignment1.1</path>
+<path
+   kind="dir"
+   copyfrom-path="/lato2/Assignment1.1"
+   copyfrom-rev="4962"
+   action="A">/lato2/Assignment_temp</path>
+</paths>
+<msg>Changing directory structure</msg>
+</logentry>
+<logentry
+   revision="4962">
+<author>lato2</author>
+<date>2014-02-14T23:41:38.004882Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPieceRook.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPieceKnight.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessTile.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.1/Assignment1.1/src/ChessPieceKing.java</path>
+</paths>
+<msg>Assignment 1.1 added</msg>
+</logentry>
+<logentry
+   revision="3112">
+<author>lato2</author>
+<date>2014-02-06T20:35:57.644672Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoard.java</path>
+</paths>
+<msg>Add code for initializing chess board</msg>
+</logentry>
+<logentry
+   revision="3110">
+<author>lato2</author>
+<date>2014-02-06T20:24:30.392540Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>Fix motion for pawns</msg>
+</logentry>
+<logentry
+   revision="3109">
+<author>lato2</author>
+<date>2014-02-06T20:23:30.824208Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoardTest.java</path>
+</paths>
+<msg>Fixe motion for pawns</msg>
+</logentry>
+<logentry
+   revision="3101">
+<author>lato2</author>
+<date>2014-02-06T19:59:41.328555Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceKing.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceRook.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceKnight.java</path>
+</paths>
+<msg>Modified constructors for the pieces</msg>
+</logentry>
+<logentry
+   revision="3088">
+<author>lato2</author>
+<date>2014-02-06T19:33:34.640957Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPiece.java</path>
+</paths>
+<msg>Added color attribute to pieces</msg>
+</logentry>
+<logentry
+   revision="3083">
+<author>lato2</author>
+<date>2014-02-06T19:27:45.403814Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceKnight.java</path>
+</paths>
+<msg>Chess piece tests and movements implemented.</msg>
+</logentry>
+<logentry
+   revision="3079">
+<author>lato2</author>
+<date>2014-02-06T19:15:44.604173Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoardTest.java</path>
+</paths>
+<msg>Game piece tests declared. Memory allocation bug in ChessBoard fixed.</msg>
+</logentry>
+<logentry
+   revision="3065">
+<author>lato2</author>
+<date>2014-02-06T18:47:15.046366Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceKing.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceRook.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPieceBishop.java</path>
+</paths>
+<msg>Game pieces canTravel method declared</msg>
+</logentry>
+<logentry
+   revision="3054">
+<author>lato2</author>
+<date>2014-02-06T18:14:57.456516Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessPiecePawn.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessPieceKing.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessPieceRook.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessPieceQueen.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessPieceBishop.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessPieceKnight.java</path>
+</paths>
+<msg>Game pieces declared</msg>
+</logentry>
+<logentry
+   revision="3051">
+<author>lato2</author>
+<date>2014-02-06T18:09:03.577450Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoard.java</path>
+</paths>
+<msg>GamePiece and Gameboard methods declared</msg>
+</logentry>
+<logentry
+   revision="3037">
+<author>lato2</author>
+<date>2014-02-06T17:47:24.478423Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTile.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.0/src/GamePiece.java"
+   copyfrom-rev="3012"
+   action="A">/lato2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   kind="file"
+   copyfrom-path="/lato2/Assignment1.0/src/GamePieceTest.java"
+   copyfrom-rev="3009"
+   action="A">/lato2/Assignment1.0/src/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.0/src/GamePiece.java</path>
+<path
+   kind="file"
+   action="D">/lato2/Assignment1.0/src/GamePieceTest.java</path>
+</paths>
+<msg>Renamed files to match naming convention.
+Completed tests and method for ChessBoard.</msg>
+</logentry>
+<logentry
+   revision="3032">
+<author>lato2</author>
+<date>2014-02-06T17:35:06.371098Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoardTest.java</path>
+</paths>
+<msg>More ChessBoardTests.</msg>
+</logentry>
+<logentry
+   revision="3029">
+<author>lato2</author>
+<date>2014-02-06T17:25:51.135657Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessBoardTest.java</path>
+</paths>
+<msg>ChessBoard tests committed.</msg>
+</logentry>
+<logentry
+   revision="3014">
+<author>lato2</author>
+<date>2014-02-06T17:10:29.233317Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTile.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>getOccupant method and tests created for ChessTile class.</msg>
+</logentry>
+<logentry
+   revision="3013">
+<author>lato2</author>
+<date>2014-02-06T17:06:09.816500Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTile.java</path>
+</paths>
+<msg>ChessTile methods implemented.
+</msg>
+</logentry>
+<logentry
+   revision="3012">
+<author>lato2</author>
+<date>2014-02-06T17:04:42.613366Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTile.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/src/GamePiece.java</path>
+</paths>
+<msg>Tests done for ChessTile</msg>
+</logentry>
+<logentry
+   revision="3009">
+<author>lato2</author>
+<date>2014-02-06T16:36:40.100201Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessTile.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessTileTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/GamePiece.java</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/src/GamePieceTest.java</path>
+<path
+   kind="file"
+   action="M">/lato2/Assignment1.0/Assignment1.0.iml</path>
+</paths>
+<msg>Files for classes and tests created.</msg>
+</logentry>
+<logentry
+   revision="2933">
+<author>lato2</author>
+<date>2014-02-06T08:01:36.930308Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0/.idea</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment1.0/Assignment1.0.iml</path>
+</paths>
+<msg>Initial Assingment1.0 dir</msg>
+</logentry>
+<logentry
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="file"
+   action="M">/lato2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>HW0 modified</msg>
+</logentry>
+<logentry
+   revision="1789">
+<author>lato2</author>
+<date>2014-01-30T21:38:08.353660Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/Assignment0/RandomForest.py</path>
+<path
+   kind="dir"
+   action="A">/lato2/Assignment0</path>
+<path
+   kind="file"
+   action="A">/lato2/Assignment0/DecisionTree.py</path>
+</paths>
+<msg>Assingment0 code</msg>
+</logentry>
+<logentry
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/bin/lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/src</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/bin</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/lato2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/lato2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>yolo</msg>
+</logentry>
+<logentry
+   revision="1780">
+<author>lato2</author>
+<date>2014-01-30T21:26:52.880116Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="1778">
+<author>lato2</author>
+<date>2014-01-30T21:24:46.906116Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lato2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit </msg>
+</logentry>
+<logentry
+   revision="1777">
+<author>lato2</author>
+<date>2014-01-30T21:21:21.988978Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lato2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/lato2/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/lato2/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="101">
+<author>root</author>
+<date>2014-01-26T21:15:27.463426Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lato2</path>
+</paths>
+<msg>created directory lato2</msg>
+</logentry>
+</log>

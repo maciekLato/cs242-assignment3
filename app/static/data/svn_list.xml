@@ -1,0 +1,2309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp14-cs242/lato2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1789">
+<author>lato2</author>
+<date>2014-01-30T21:38:08.353660Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/DecisionTree.py</name>
+<size>6815</size>
+<commit
+   revision="1789">
+<author>lato2</author>
+<date>2014-01-30T21:38:08.353660Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/RandomForest.py</name>
+<size>7538</size>
+<commit
+   revision="1789">
+<author>lato2</author>
+<date>2014-01-30T21:38:08.353660Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="5096">
+<author>lato2</author>
+<date>2014-02-17T18:21:42.276856Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="5096">
+<author>lato2</author>
+<date>2014-02-17T18:21:42.276856Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/copyright</name>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>805</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>268</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/scopes</name>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>43645</size>
+<commit
+   revision="5096">
+<author>lato2</author>
+<date>2014-02-17T18:21:42.276856Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0.iml</name>
+<size>667</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessBoard.java</name>
+<size>5465</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessBoardTest.java</name>
+<size>2224</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPiece.java</name>
+<size>953</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPieceBishop.java</name>
+<size>852</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPieceKing.java</name>
+<size>844</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPieceKnight.java</name>
+<size>947</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPiecePawn.java</name>
+<size>842</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPieceQueen.java</name>
+<size>910</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPieceRook.java</name>
+<size>795</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPieceTest.java</name>
+<size>3883</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessTile.java</name>
+<size>1089</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessTileTest.java</name>
+<size>1801</size>
+<commit
+   revision="5085">
+<author>lato2</author>
+<date>2014-02-17T16:33:46.528879Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/copyright</name>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>805</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>268</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/scopes</name>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>73205</size>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0.iml</name>
+<size>667</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/doxygen</name>
+<commit
+   revision="5119">
+<author>lato2</author>
+<date>2014-02-17T21:15:09.663611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/doxygen/Doxyfile</name>
+<size>99193</size>
+<commit
+   revision="5119">
+<author>lato2</author>
+<date>2014-02-17T21:15:09.663611Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/images</name>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/images/80</name>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/bb.png</name>
+<size>5486</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/bk.png</name>
+<size>9285</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/bn.png</name>
+<size>6527</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/bp.png</name>
+<size>2846</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/bq.png</name>
+<size>6596</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/br.png</name>
+<size>3378</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/wb.png</name>
+<size>7756</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/wk.png</name>
+<size>7951</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/wn.png</name>
+<size>7127</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/wp.png</name>
+<size>4923</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/wq.png</name>
+<size>8717</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/images/80/wr.png</name>
+<size>5091</size>
+<commit
+   revision="5574">
+<author>lato2</author>
+<date>2014-02-20T13:10:05.034350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories/ChessBoard.class</name>
+<size>3497</size>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/ChessBoardAccessories/ChessTile.class</name>
+<size>838</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces</name>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/ChessPiece.class</name>
+<size>524</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceBishop.class</name>
+<size>635</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceKing.class</name>
+<size>634</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceKnight.class</name>
+<size>672</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/ChessPiecePawn.class</name>
+<size>633</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceQueen.class</name>
+<size>655</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Pieces/ChessPieceRook.class</name>
+<size>582</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/tests</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/tests/ChessBoardTest.class</name>
+<size>1887</size>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/tests/ChessPieceTest.class</name>
+<size>1568</size>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/tests/ChessTileTest.class</name>
+<size>1540</size>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="5583">
+<author>lato2</author>
+<date>2014-02-20T14:26:31.566888Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/ChessBoardAccessories</name>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/ChessBoardAccessories/ChessBoard.java</name>
+<size>5315</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/ChessBoardAccessories/ChessTile.java</name>
+<size>1164</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/GUIComponents</name>
+<commit
+   revision="5583">
+<author>lato2</author>
+<date>2014-02-20T14:26:31.566888Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/GUIComponents/BoardGUI.java</name>
+<size>4625</size>
+<commit
+   revision="5583">
+<author>lato2</author>
+<date>2014-02-20T14:26:31.566888Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Pieces</name>
+<commit
+   revision="5101">
+<author>lato2</author>
+<date>2014-02-17T19:16:55.769079Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Bishop.java</name>
+<size>846</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/ChessPiece.java</name>
+<size>984</size>
+<commit
+   revision="5097">
+<author>lato2</author>
+<date>2014-02-17T18:22:38.372350Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/King.java</name>
+<size>842</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Knight.java</name>
+<size>941</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Pawn.java</name>
+<size>836</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Queen.java</name>
+<size>905</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/QueensCalvary.java</name>
+<size>1133</size>
+<commit
+   revision="5100">
+<author>lato2</author>
+<date>2014-02-17T19:05:02.343663Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Rook.java</name>
+<size>789</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Troll.java</name>
+<size>1066</size>
+<commit
+   revision="5101">
+<author>lato2</author>
+<date>2014-02-17T19:16:55.769079Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/tests</name>
+<commit
+   revision="5583">
+<author>lato2</author>
+<date>2014-02-20T14:26:31.566888Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/BishopTest.java</name>
+<size>824</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/ChessBoardTest.java</name>
+<size>2403</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/ChessPieceTest.java</name>
+<size>1312</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/ChessTileTest.java</name>
+<size>1928</size>
+<commit
+   revision="5098">
+<author>lato2</author>
+<date>2014-02-17T18:31:10.160178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/GUI_testing.pdf</name>
+<size>381670</size>
+<commit
+   revision="5583">
+<author>lato2</author>
+<date>2014-02-20T14:26:31.566888Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/KingTest.java</name>
+<size>680</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/KnightTest.java</name>
+<size>1013</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/PawnTest.java</name>
+<size>680</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/QueenTest.java</name>
+<size>872</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/QueensCalvaryTest.java</name>
+<size>1383</size>
+<commit
+   revision="5101">
+<author>lato2</author>
+<date>2014-02-17T19:16:55.769079Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/RookTest.java</name>
+<size>801</size>
+<commit
+   revision="5099">
+<author>lato2</author>
+<date>2014-02-17T19:04:10.482612Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/TrollTest.java</name>
+<size>811</size>
+<commit
+   revision="5101">
+<author>lato2</author>
+<date>2014-02-17T19:16:55.769079Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea</name>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/copyright</name>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/misc.xml</name>
+<size>805</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/modules.xml</name>
+<size>268</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/scopes</name>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/workspace.xml</name>
+<size>68907</size>
+<commit
+   revision="6544">
+<author>lato2</author>
+<date>2014-02-27T05:28:24.628593Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0.iml</name>
+<size>667</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/debug.txt</name>
+<size>858</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/doxygen</name>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/doxygen/Doxyfile</name>
+<size>99193</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/images</name>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/images/80</name>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/bb.png</name>
+<size>5486</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/bk.png</name>
+<size>9285</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/bn.png</name>
+<size>6527</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/bp.png</name>
+<size>2846</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/bq.png</name>
+<size>6596</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/br.png</name>
+<size>3378</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/wb.png</name>
+<size>7756</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/wk.png</name>
+<size>7951</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/wn.png</name>
+<size>7127</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/wp.png</name>
+<size>4923</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/wq.png</name>
+<size>8717</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/images/80/wr.png</name>
+<size>5091</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5719">
+<author>lato2</author>
+<date>2014-02-20T21:59:34.469817Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/ChessBoardAccessories</name>
+<commit
+   revision="5711">
+<author>lato2</author>
+<date>2014-02-20T21:46:51.729971Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/ChessBoardAccessories/ChessBoard.java</name>
+<size>6595</size>
+<commit
+   revision="5711">
+<author>lato2</author>
+<date>2014-02-20T21:46:51.729971Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/ChessBoardAccessories/ChessTile.java</name>
+<size>1170</size>
+<commit
+   revision="5701">
+<author>lato2</author>
+<date>2014-02-20T21:10:09.223072Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/GUIComponents</name>
+<commit
+   revision="5711">
+<author>lato2</author>
+<date>2014-02-20T21:46:51.729971Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/GUIComponents/BoardGUI.java</name>
+<size>7551</size>
+<commit
+   revision="5711">
+<author>lato2</author>
+<date>2014-02-20T21:46:51.729971Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Pieces</name>
+<commit
+   revision="5711">
+<author>lato2</author>
+<date>2014-02-20T21:46:51.729971Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/Bishop.java</name>
+<size>846</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/ChessPiece.java</name>
+<size>984</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/King.java</name>
+<size>842</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/Knight.java</name>
+<size>941</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/Pawn.java</name>
+<size>841</size>
+<commit
+   revision="5701">
+<author>lato2</author>
+<date>2014-02-20T21:10:09.223072Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/Queen.java</name>
+<size>905</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/QueensCalvary.java</name>
+<size>1133</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/Rook.java</name>
+<size>792</size>
+<commit
+   revision="5711">
+<author>lato2</author>
+<date>2014-02-20T21:46:51.729971Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pieces/Troll.java</name>
+<size>1066</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/tests</name>
+<commit
+   revision="5719">
+<author>lato2</author>
+<date>2014-02-20T21:59:34.469817Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/BishopTest.java</name>
+<size>824</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/ChessBoardTest.java</name>
+<size>2403</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/ChessPieceTest.java</name>
+<size>1312</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/ChessTileTest.java</name>
+<size>1928</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/GUI_testing.docx</name>
+<size>674001</size>
+<commit
+   revision="5719">
+<author>lato2</author>
+<date>2014-02-20T21:59:34.469817Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/GUI_testing.pdf</name>
+<size>381670</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/KingTest.java</name>
+<size>680</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/KnightTest.java</name>
+<size>1013</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/PawnTest.java</name>
+<size>680</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/QueenTest.java</name>
+<size>872</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/QueensCalvaryTest.java</name>
+<size>1383</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/RookTest.java</name>
+<size>801</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/TrollTest.java</name>
+<size>811</size>
+<commit
+   revision="5586">
+<author>lato2</author>
+<date>2014-02-20T14:43:47.142382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6692">
+<author>lato2</author>
+<date>2014-02-27T21:40:10.086034Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/data</name>
+<commit
+   revision="6591">
+<author>lato2</author>
+<date>2014-02-27T10:18:55.335079Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="6591">
+<author>lato2</author>
+<date>2014-02-27T10:18:55.335079Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/js</name>
+<commit
+   revision="6692">
+<author>lato2</author>
+<date>2014-02-27T21:40:10.086034Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/js/dataParser.js</name>
+<size>1212</size>
+<commit
+   revision="6669">
+<author>lato2</author>
+<date>2014-02-27T19:46:12.957109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/js/graph.js</name>
+<size>6719</size>
+<commit
+   revision="6692">
+<author>lato2</author>
+<date>2014-02-27T21:40:10.086034Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/js/shell.js</name>
+<size>6932</size>
+<commit
+   revision="6667">
+<author>lato2</author>
+<date>2014-02-27T19:42:36.588759Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/test</name>
+<commit
+   revision="6692">
+<author>lato2</author>
+<date>2014-02-27T21:40:10.086034Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test/graphTest.js</name>
+<size>1436</size>
+<commit
+   revision="6692">
+<author>lato2</author>
+<date>2014-02-27T21:40:10.086034Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="7436">
+<author>lato2</author>
+<date>2014-03-06T15:57:39.167201Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/Assignment2.1.iml</name>
+<size>283</size>
+<commit
+   revision="7436">
+<author>lato2</author>
+<date>2014-03-06T15:57:39.167201Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="7435">
+<author>lato2</author>
+<date>2014-03-06T15:56:22.596867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/misc.xml</name>
+<size>253</size>
+<commit
+   revision="7435">
+<author>lato2</author>
+<date>2014-03-06T15:56:22.596867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/modules.xml</name>
+<size>280</size>
+<commit
+   revision="7436">
+<author>lato2</author>
+<date>2014-03-06T15:57:39.167201Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/scopes</name>
+<commit
+   revision="7435">
+<author>lato2</author>
+<date>2014-03-06T15:56:22.596867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="7435">
+<author>lato2</author>
+<date>2014-03-06T15:56:22.596867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/vcs.xml</name>
+<size>182</size>
+<commit
+   revision="7435">
+<author>lato2</author>
+<date>2014-03-06T15:56:22.596867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/workspace.xml</name>
+<size>29277</size>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/data</name>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data/cmi_hub.json</name>
+<size>1531</size>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data/generated.json</name>
+<size>19776</size>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="7435">
+<author>lato2</author>
+<date>2014-03-06T15:56:22.596867Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/js</name>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/js/dataParser.js</name>
+<size>2172</size>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/js/graphutils.js</name>
+<size>7685</size>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/js/mygraph.js</name>
+<size>1255</size>
+<commit
+   revision="7453">
+<author>lato2</author>
+<date>2014-03-06T17:18:40.721023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/js/mynode.js</name>
+<size>1646</size>
+<commit
+   revision="7506">
+<author>lato2</author>
+<date>2014-03-06T20:01:30.990144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/js/shell.js</name>
+<size>11694</size>
+<commit
+   revision="7530">
+<author>lato2</author>
+<date>2014-03-06T21:57:17.735566Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/test</name>
+<commit
+   revision="7453">
+<author>lato2</author>
+<date>2014-03-06T17:18:40.721023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test/graphTest.js</name>
+<size>1438</size>
+<commit
+   revision="7453">
+<author>lato2</author>
+<date>2014-03-06T17:18:40.721023Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation</name>
+<commit
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4548</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/Network.class</name>
+<size>8094</size>
+<commit
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Node.class</name>
+<size>1222</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9528</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>13541</size>
+<commit
+   revision="1794">
+<author>lato2</author>
+<date>2014-01-30T21:51:57.780209Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>2406</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1787">
+<author>lato2</author>
+<date>2014-01-30T21:35:05.877674Z</date>
+</commit>
+</entry>
+</list>
+</lists>
